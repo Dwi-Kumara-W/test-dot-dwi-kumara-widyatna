@@ -9,7 +9,7 @@ const ProductList = ({ products }) => {
             <table className="table table-bordered table-striped table-sm text-wrap">
               <thead>
                 <tr>
-                  <th>Id</th>
+                  <th>No</th>
                   <th>Category</th>
                   <th>Price</th>
                   <th>Action</th>
